@@ -1,3 +1,3 @@
-# PhD thesis, Martin Hoelzer
+# PhD thesis, Martin Hölzer
 
 I earned my PhD working on "The Dark Art of Next-Generation Sequencing: fundamental approaches for genomics, transcriptomics, and differential gene expression" at the University of Jena in 2018 (submitted 2017). Here is the [link to the document hosted at the Unviversity of Jena](https://suche.thulb.uni-jena.de/Record/1013860616) - if you need a printed version for whateve reason... Otherwise the PDF is in this repository. 
